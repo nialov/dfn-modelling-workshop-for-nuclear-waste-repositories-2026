@@ -10,8 +10,23 @@ to the material are provided for each software.
 
 ## OpenGeoSys
 
+## PorePy (<https://github.com/keileg/dfn_workshop_porepy>)
+
+Please see the [link](https://github.com/keileg/dfn_workshop_porepy) in the
+title to access the main instruction material repository.
+
 ### Technical requirements
 
-## PorePy
+#### Cloud
 
-### Technical requirements
+-  GitHub account (<https://github.com/signup>)
+-  The software can be used using GitHub Codespaces. However, it can be
+   expected that the computing resources provided by GitHub will be limited.
+   Consequently, only relatively simple simulations can be run.
+
+#### Local
+
+WORK-IN-PROGRESS
+
+-  Please see the `install.sh` script in the main instruction material
+   repository for preliminary installation instructions
