@@ -10,6 +10,17 @@ to the material are provided for each software.
 
 ## OpenGeoSys
 
+### Technical requirements
+
+#### Cloud
+
+-   The demonstration exercises can be run using Binder
+    (<https://mybinder.org/>). However, it can be expected that the
+    computing resources provided will be limited and the computing
+    resources are sometimes unavailable.
+
+#### Local
+
 ## PorePy (<https://github.com/keileg/dfn_workshop_porepy>)
 
 Please see the [link](https://github.com/keileg/dfn_workshop_porepy) in the
@@ -20,7 +31,7 @@ title to access the main instruction material repository.
 #### Cloud
 
 -  GitHub account (<https://github.com/signup>)
--  The software can be used using GitHub Codespaces. However, it can be
+-  The software can be run using GitHub Codespaces. However, it can be
    expected that the computing resources provided by GitHub will be limited.
    Consequently, only relatively simple simulations can be run.
 
