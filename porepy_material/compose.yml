@@ -1,0 +1,16 @@
+services:
+  porepy-workshop:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ghcr.io/<github-user>/porepy-workshop:latest
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/home/jovyan/local
+    environment:
+      JUPYTER_TOKEN: change-me
+    command:
+      - start-notebook.py
+      - --ServerApp.root_dir=/home/jovyan/porepy_material
+      - --ServerApp.token=${JUPYTER_TOKEN}
