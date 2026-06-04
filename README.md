@@ -21,6 +21,29 @@ to the material are provided for each software.
 
 #### Local
 
+### Material (WORK-IN-PROGRESS)
+
+-   [DFN-generation using
+    PorePy](https://www.opengeosys.org/6.5.8/docs/benchmarks/reactive-transport/dfnbyporepy/)
+
+-   [DFN-OGS-PorePy](https://www.opengeosys.org/6.5.8/docs/benchmarks/reactive-transport/dfnbyporepy_to_ogs/)
+
+-   [Greatcell-LIE-SmallDeformation](https://www.opengeosys.org/6.5.8/docs/benchmarks/small-deformations/greatcellm/)
+
+-   [Greatcell-Hydromechanical](https://www.opengeosys.org/6.5.8/docs/benchmarks/hydro-mechanics/greatcellhm/)
+
+-   [Open prebuilt Binder environment with OGS
+    PETSc](https://binder.opengeosys.org/v2/gh/bilke/binder-ogs-requirements/petsc-6.5.8-0.8.0?urlpath=git-pull?repo=https://gitlab.opengeosys.org/ogs/ogs&urlpath=lab/tree&branch=master&depth=1)
+
+    -   Use the environment for these two notebooks
+    -   [Static
+        fractures](https://www.opengeosys.org/6.5.8/docs/benchmarks/phase-field/greatcellhm_vpf/)
+    -   [Propagating
+        fracture](https://www.opengeosys.org/6.5.8/docs/benchmarks/phase-field/greatcellhm_vpf_propagating/)
+
+-   [Rough
+    fracture](https://ogs.ogs.xyz/ogs/mr-5729/docs/benchmarks/liquid-flow/roughfracture_benchmark/)
+
 ## PorePy (<https://github.com/keileg/dfn_workshop_porepy>)
 
 Please see the [link](https://github.com/keileg/dfn_workshop_porepy) in the
