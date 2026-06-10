@@ -82,8 +82,8 @@ WORK-IN-PROGRESS
     -   How to modify `solid_constants`? E.g. set fracture or matrix
         permeability
 
-2.  In some of the notebook descriptions, it seems to talk about E and
-    West having different pressure but the flow happens north to south.
+2.  In some of the notebook descriptions, it seems to talk about east and
+    west having different pressure but the flow happens north to south.
 3.  What are the units in the tracer concentration plot?
 4.  How is meshing done?
 5.  How to access the PorePy tutorials?
