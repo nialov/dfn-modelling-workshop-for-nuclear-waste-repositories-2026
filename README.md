@@ -73,3 +73,15 @@ WORK-IN-PROGRESS
 4. This should open VSCode like environment for computing.
 5. Go to flow_and_transport directory and open up flow_and_transport_2d.ipynb
 6. Click Run all, pick Python kernel /usr/local/bin/python and wait for execution
+
+### Demonstration questions
+
+1.  How do the fractures affect the flow? Do they have different
+    permeability and how is it set?
+
+    -  How to modify ``solid_constants``?
+
+2.  In some of the notebook descriptions, it seems to talk about E and
+    West having different pressure but the flow happens north to south.
+3.  What are the units in the tracer concentration plot?
+4.  How is meshing done?
