@@ -71,3 +71,5 @@ WORK-IN-PROGRESS
 2. Create Github account and login
 3. Click Code, Codespaces and then create new codespace
 4. This should open VSCode like environment for computing.
+5. Go to flow_and_transport directory and open up flow_and_transport_2d.ipynb
+6. Click Run all, pick Python kernel /usr/local/bin/python and wait for execution
