@@ -44,6 +44,10 @@ to the material are provided for each software.
 -   [Rough
     fracture](https://ogs.ogs.xyz/ogs/mr-5729/docs/benchmarks/liquid-flow/roughfracture_benchmark/)
 
+### Demonstration instructions
+
+1. Go to https://opengeosys.org
+
 ## PorePy (<https://github.com/keileg/dfn_workshop_porepy>)
 
 Please see the [link](https://github.com/keileg/dfn_workshop_porepy) in the
