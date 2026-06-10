@@ -64,3 +64,10 @@ WORK-IN-PROGRESS
 
 -  Please see the `install.sh` script in the main instruction material
    repository for preliminary installation instructions
+
+### Demonstration instructions
+
+1. Go to https://github.com/keileg/dfn_workshop_porepy
+2. Create Github account and login
+3. Click Code, Codespaces and then create new codespace
+4. This should open VSCode like environment for computing.
