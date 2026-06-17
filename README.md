@@ -21,7 +21,7 @@ to the material are provided for each software.
 
 #### Local
 
-### Material (WORK-IN-PROGRESS)
+### Material
 
 -   [DFN-generation using
     PorePy](https://www.opengeosys.org/6.5.8/docs/benchmarks/reactive-transport/dfnbyporepy/)
@@ -63,8 +63,6 @@ title to access the main instruction material repository.
    Consequently, only relatively simple simulations can be run.
 
 #### Local
-
-WORK-IN-PROGRESS
 
 -  Please see the `install.sh` script in the main instruction material
    repository for preliminary installation instructions
